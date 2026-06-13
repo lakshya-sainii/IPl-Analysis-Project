@@ -36,24 +36,13 @@ Seasonal performance patterns
 4. Season-wise Insights
 Dominant teams per season
 Overall performance comparison
-📈 Sample SQL Query
-SELECT
-    CASE
-        WHEN toss_winner = winner THEN 'Won Match'
-        ELSE 'Lost Match'
-    END AS toss_impact,
-    COUNT(*) AS total_matches
-FROM matches
-GROUP BY
-    CASE
-        WHEN toss_winner = winner THEN 'Won Match'
-        ELSE 'Lost Match'
-    END;
+-------------------------------------
 💡 Key Insights
 Winning the toss does not guarantee winning the match
 Certain teams perform significantly better under chasing conditions
 Match outcomes vary heavily across seasons
 A few teams consistently dominate IPL history
+-------------------------------------------
 📊 Project Outcome
 
 This project helps in understanding real-world sports analytics using SQL and demonstrates how raw match data can be converted into actionable insights and dashboards.
