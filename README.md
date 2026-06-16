@@ -9,7 +9,8 @@ This project is a complete data analysis study of Indian Premier League (IPL) ma
 
 It is designed as a portfolio-level analytics project to demonstrate SQL skills, data storytelling, and business insights generation.
 
-<img width="1536" height="1024" alt="IPl_Analyse_Dashboard" src="https://github.com/user-attachments/assets/8008585d-95cc-4360-8e48-e95bb79debf8" />
+<img width="1536" height="1024" alt="IPL_Analytics Dashboard" src="https://github.com/user-attachments/assets/3b05d524-5c2d-4050-bb68-1c04c2eaa081" />
+
 
 
 🎯 Objectives
